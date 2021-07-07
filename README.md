@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amine-ziad-ounnoughene
-- 👀 I’m interested in AI , science in general and quantum computing
+- 👀 I’m interested in AI,technology and science in general
 - 🌱 I’m currently learning DATA SCIENCE
 - 💞️ I’m looking to collaborate on PROJECTS THAT WILL CHANGE THE WORLD FOR BETTER
 
