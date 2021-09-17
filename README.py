@@ -9,6 +9,8 @@ class Amine_Ziad_Ounnoughene :
           return [[dart🎯",50%],["python🐍",80%],["julia",30%],["SQL",50%]]
       def get_databases(self):
           return "mySQL"
+      def get_human_languages(self):
+          return ["arabic","french","english"]
       def get_machine_learning_algorithms(self):
           return ["linear regression","KNN","Kmeans","PCA","support vector machines","logistic regression","naive bayes"]
       def get_deep_learnig_models(self):  
