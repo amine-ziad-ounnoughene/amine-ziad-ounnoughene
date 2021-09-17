@@ -17,6 +17,8 @@ class Amine_Ziad_Ounnoughene :
           return ["numpy","pandas","sklearn","opencv","streamlit", "tensorflow", "matplotlib","plotly.express"]
       def get_hobbies_interests_and_skills(self):
           return ["math♾","swiming🏊‍","cyclisme🚲","traveling✈","digital marketing"]
+      def get_contacts(self):
+          return {"instagram" : "devos.io"}
       def get_future_plans(self)
         hobbies_interests_and_skills = self.get_hobbies_interests_and_skills()
         plans = ["learn_quantum_machine_learning","share_my_humbble_knowledge"]
