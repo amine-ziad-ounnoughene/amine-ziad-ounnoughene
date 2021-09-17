@@ -16,7 +16,7 @@ class Amine_Ziad_Ounnoughene :
       def get_python_packages(self):
           return ["numpy","pandas","sklearn","opencv","streamlit", "tensorflow", "matplotlib","plotly.express"]
       def get_hobbies_interests_and_skills(self):
-          return ["math♾","swiming🏊‍","cyclisme🚲","traveling✈","digital marketing"]
+          return ["math♾","swiming🏊‍","cyclisme🚲","traveling✈","digital marketing","machine learning & data science","coding"]
       def get_contacts(self):
           return {"instagram" : "devos.io"}
       def get_future_plans(self)
