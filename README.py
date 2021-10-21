@@ -12,18 +12,18 @@ class Amine_Ziad_Ounnoughene :
       def get_human_languages(self):
           return ["arabic","french","english"]
       def get_machine_learning_algorithms(self):
-          return ["linear regression","KNN","Kmeans","PCA","support vector machines","logistic regression","naive bayes"]
+          return ["linear regression","KNN","Kmeans","PCA","support vector machines","logistic regression","naive bayes","genetic algorithms (they arent really ml)"]
       def get_deep_learnig_models(self):  
-          return ["autorncoders","VAE","FNN’S","RNN’S","CNN’S","transformers","LSTM’S,GRU’S"]
+          return ["autoencoders","VAE","FNN’S","RNN’S","CNN’S","transformers","LSTM’S,GRU’S" ]
       def get_python_packages(self):
           return ["numpy","pandas","sklearn","opencv","streamlit", "tensorflow", "matplotlib","plotly.express"]
       def get_hobbies_interests_and_skills(self):
-          return ["math♾","swiming🏊‍","cyclisme🚲","traveling✈","digital marketing","machine learning & data science","coding"]
+          return ["math♾","swiming🏊‍","cyclisme🚲","machine learning & data science","coding"]
       def get_contacts(self):
           return {"instagram" : "devos.io"}
       def get_future_plans(self)
         hobbies_interests_and_skills = self.get_hobbies_interests_and_skills()
-        plans = ["learn_quantum_machine_learning","share_my_humbble_knowledge"]
+        plans = ["learn_more_machine_learning","share_my_humbble_knowledge"]
         for plan in plans:
           hobbies_interests_and_skills.append(plan)
         programming = self.get_programming_languages()
