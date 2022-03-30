@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @amine-ziad-ounnoughene
 class Amine_Ziad_Ounnoughene :
       def __init__ :
-          Self.age = 14
+          Self.age = 15
           Self.country = "Algeria 🇩🇿🇩🇿"
           Self.educational_level = 'high school🏢'
           self.founder = "devos"
