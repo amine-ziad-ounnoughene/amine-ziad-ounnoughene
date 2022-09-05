@@ -6,7 +6,7 @@
 - 💬 Ask me about data science and programming and I will try to help you with what I can 
 - ⚡ Fun fact: science is my life 
 
-# I use
+# My arsenal
 <div align="center">  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -40,3 +40,7 @@
 
 <br/>  
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amine-ziad-ounnoughene&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
