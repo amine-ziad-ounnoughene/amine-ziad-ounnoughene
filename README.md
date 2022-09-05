@@ -4,9 +4,6 @@
 - 🌱 I’m currently learning computer vision techniques
 - 👯 I’m looking to collaborate on software projects that can make our social and  enviromental status better than today 
 - 💬 Ask me about data science and programming and I will try to help you with what I can 
-- 📫 How to reach me 
-     - ![facebook](https://www.facebook.com/devos.tech/)
-     - ![instagram](https://www.instagram.com/devos_io/)
 - ⚡ Fun fact: science is my life 
 
 # I use
@@ -22,3 +19,24 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/amine-ziad-ounnoughene" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/devos_io" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/devos.tech" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@amineziadus" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
