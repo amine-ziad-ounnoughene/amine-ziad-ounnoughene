@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner that says Amine Ziad Ounnoughene - programmer,content creator and future data scientist">
+
 - I am a 15 years old mathemthics branch high school student, a data science/programming enthusiast and a content creator
 - 🌱 I’m currently learning computer vision techniques
 - 👯 I’m looking to collaborate on software projects that can make our social and  enviromental status better than today 
