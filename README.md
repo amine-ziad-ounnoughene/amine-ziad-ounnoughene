@@ -1,10 +1,8 @@
 <img src="https://github.com/amine-ziad-ounnoughene/amine-ziad-ounnoughene/blob/4447eb97b8570112dd805a07ff415de7a086d76e/banner.png" alt="banner that says Amine Ziad Ounnoughene - programmer,content creator and future data scientist">
 
 - I am a 15 years old mathemthics branch high school student, a data science/programming enthusiast and a content creator
-- 🌱 I’m currently learning computer vision techniques
 - 👯 I’m looking to collaborate on software projects that can make our social and  enviromental status better than today 
 - 💬 Ask me about data science and programming and I will try to help you with what I can 
-- ⚡ Fun fact: science is my life 
 
 ## My arsenal
 <div align="center">  
