@@ -42,3 +42,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amine-ziad-ounnoughene&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+
+###  Watch my Contribution Graph get eaten by the snake 🥳
+![snake gif](https://raw.githubusercontent.com/amine-ziad-ounnoughene/amine-ziad-ounnoughene/output/github-contribution-grid-snake.svg)
